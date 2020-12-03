@@ -1,5 +1,6 @@
 # Finite-state-machine
 Simple program in C simulating specific finite-state machine.
+Instruction in Polish
 
 Artur Romaniuk	11.11.2020
 
